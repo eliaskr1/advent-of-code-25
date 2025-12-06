@@ -1,0 +1,20 @@
+# 1. Dependencies and Output
+# -------------------------
+/node_modules
+/dist
+.tsbuildinfo
+.tscache
+
+# 2. Operating System Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# 3. Editor/IDE Files
+# -------------------
+# VS Code
+.vscode/
+
+# Logs and npm debug files
+npm-debug.log*
+.npm
